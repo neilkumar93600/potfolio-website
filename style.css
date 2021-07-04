@@ -33,6 +33,11 @@ body{
     margin: 0 auto;
     justify-content: space-between;
 }
+
+.x
+{
+    color:var(--main-color);
+}
 .checkBtn{
     display: none;
 }
